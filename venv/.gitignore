@@ -1,0 +1,16 @@
+# Entornos virtuales de Python
+venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de Streamlit locales
+.streamlit/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
