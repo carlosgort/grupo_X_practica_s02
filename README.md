@@ -17,3 +17,5 @@ grupo_X_practica_s02/
 ├── app.py                  # Interfaz Streamlit (Ampliación A10)
 ├── README.md               # Guía de ejecución
 └── informe_grupo_X_s02.pdf # Memoria del trabajo
+
+f
